@@ -17,8 +17,8 @@ class Employee {
 public class MainTask6 {
     public static void main(String[] args) {
         // Creating two employee objects with different information
-        Employee emp1 = new Employee(1001, "Evan Wright", "Software Engineer");
-        Employee emp2 = new Employee(1002, "Fiona Gallagher", "Project Manager");
+        Employee emp1 = new Employee(1001, "Piyush", "Software Engineer");
+        Employee emp2 = new Employee(1002, "Pranay", "Project Manager");
 
         // Displaying details of both
         emp1.displayEmployee();

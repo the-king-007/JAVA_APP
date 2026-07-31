@@ -14,7 +14,7 @@ final class Book {
         System.out.println("--- New Book Added ---");
         System.out.println("Title: " + title);
         System.out.println("Author: " + author);
-        System.out.println("Price: $" + price);
+        System.out.println("Price: " + price);
         System.out.println();
     }
 }

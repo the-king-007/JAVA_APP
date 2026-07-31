@@ -15,8 +15,8 @@ class StudentRecord {
 public class MainTask5 {
     public static void main(String[] args) {
         // Creating two student objects with different names and ages
-        StudentRecord student1 = new StudentRecord("Charlie", 19);
-        StudentRecord student2 = new StudentRecord("Diana", 21);
+        StudentRecord student1 = new StudentRecord("Pranay", 19);
+        StudentRecord student2 = new StudentRecord("Soju", 21);
 
         // Displaying details individually
         student1.displayDetails();

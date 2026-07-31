@@ -18,8 +18,8 @@ public class MainTask {
         Student student = new Student();
         
         // Storing details
-        student.name = "Alice Smith";
-        student.rollNumber = 101;
+        student.name = "Pranay Kumar Singh";
+        student.rollNumber = 534;
         student.department = "Computer Science";
 
         // Displaying details
